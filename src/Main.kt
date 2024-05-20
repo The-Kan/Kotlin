@@ -1,3 +1,7 @@
+
 fun main() {
-    println("Hello World!")
+    val length = 1000
+    val str : String = "Length : $length "
+
+    println(str)
 }
